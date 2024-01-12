@@ -30,9 +30,20 @@
 
 ![Screenshot (259)](https://github.com/sjha24/HotelManagementSystem/assets/98340874/8376fa05-087e-433e-85a4-5822356c816b)
 
+## If You Are admin Than You can Perform CURD Opertaion on Room and also You can View all Booking History and also you have authority to cancel booking of anyone
 
+* Admin Panel
+  ![Screenshot (260)](https://github.com/sjha24/HotelManagementSystem/assets/98340874/710dfe50-c523-432e-8bed-55ec65090670)
 
+* Admin can view Exiating Room and also modify and delete Room
 
+![Screenshot (261)](https://github.com/sjha24/HotelManagementSystem/assets/98340874/35c70ac6-2688-4dcf-a35d-94406870bb5a)
+
+* add New Room Page
+  ![Screenshot (262)](https://github.com/sjha24/HotelManagementSystem/assets/98340874/5b280b50-9a00-4b53-af02-7e1b15381957)
+
+* Admin Can View All Booking  
+![Screenshot (263)](https://github.com/sjha24/HotelManagementSystem/assets/98340874/623cafca-dab9-422a-b07d-ec58c3835798)
 
 
 
